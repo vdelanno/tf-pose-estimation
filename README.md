@@ -36,8 +36,8 @@ You need dependencies below.
 ### Pre-Install Jetson case
 
 ```bash
-$ sudo apt-get install libllvm-7-ocaml-dev libllvm7 llvm-7 llvm-7-dev llvm-7-doc llvm-7-examples llvm-7-runtime
-$ export LLVM_CONFIG=/usr/bin/llvm-config-7 
+$ sudo apt-get install libllvm-9-ocaml-dev libllvm9 llvm-9 llvm-9-dev llvm-9-doc llvm-9-examples llvm-9-runtime cmake
+$ export LLVM_CONFIG=/usr/bin/llvm-config-9
 ```
 
 ### Install
