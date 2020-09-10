@@ -10,4 +10,6 @@ scikit-image
 scipy
 slidingwindow
 tqdm
+scikit-build
+opencv-python
 git+https://github.com/ppwwyyxx/tensorpack.git
